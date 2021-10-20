@@ -4,7 +4,7 @@
 # Links to our markdown files
 
 * [michael yohannes](./michael-yohannes.md)
-* [mujtaba ijaz](./Mujtaba-ijaz.md)
+* [mujtaba ijaz](./Mujtaba-Ijaz.md)
 * [demi villanueva](./demi-villanueva.md)
 
 
